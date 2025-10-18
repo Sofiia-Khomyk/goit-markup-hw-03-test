@@ -61,7 +61,6 @@ body {
 .page-nav {
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 .page-logo {
   font-weight: 700;
@@ -79,8 +78,6 @@ body {
   column-gap: 40px;
 }
 .menu-link {
-  padding-top: 24px;
-  padding-bottom: 24px;
   display: block;
   padding-top: 24px;
   padding-bottom: 24px;
