@@ -60,7 +60,6 @@ body {
 /* ======== HEADER STYLES ======== */
 .header-container {
   display: flex;
-  justify-content: space-between;
   align-items: center;
 }
 .page-nav {
@@ -74,10 +73,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-}
-.header-logo {
-  padding: 24px 0;
-  margin-right: 76px;
 }
 .text-accent {
   color: #2e2f42;
@@ -107,8 +102,6 @@ body {
 }
 .menu-address {
   display: flex;
-  align-items: center;
-  gap: 40px;
 }
 
 .menu-info {
