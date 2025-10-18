@@ -134,8 +134,6 @@ body {
   padding: 188px 0;
 }
 .page-title {
-  margin: auto;
-  margin-bottom: 48px;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -144,22 +142,20 @@ body {
   max-width: 496px;
 }
 .page-button {
-  margin: auto;
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-
+}
+.button {
   display: block;
   min-width: 169px;
   height: 56px;
   border: none;
-  border-radius: 4px;
-  cursor: pointer;
+  background-color: #4d5ae5;
 }
-
 .page-button:hover,
 .page-button:focus {
   background-color: #404bbf;
